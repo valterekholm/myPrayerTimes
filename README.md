@@ -11,4 +11,4 @@ This is a Java-based Android application built with Android Studio.
 Clone the repo and open it in Android Studio.
 
 ```bash
-git clone https://github.com/valterekholm/my-android-project.git
+git clone https://github.com/valterekholm/myPrayerTimes.git
