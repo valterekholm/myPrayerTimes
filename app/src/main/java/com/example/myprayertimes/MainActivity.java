@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
     private Runnable runnable;
 
     boolean testDate = false;//use a set date instead of today
-    LocalDate testDate_ = LocalDate.of(2025,2,28);
+    LocalDate testDate_ = LocalDate.of(2025,7,31);
 
     //Added 2024-12-17
     private LinearLayout settingsLayout; private Button buttonToggleSettings;
